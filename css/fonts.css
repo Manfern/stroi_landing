@@ -1,0 +1,35 @@
+@font-face {
+	font-family: 'PFSquareSansProLight';
+	src: url('./fonts/PFSquareSansProLight.eot');
+	src: url('./fonts/PFSquareSansProLight.eot?#iefix') format('embedded-opentype'), url('../fonts/PFSquareSansProLight.woff') format('woff'), url('../fonts/PFSquareSansProLight.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'PFSquareSansProRegular';
+	src: url('./fonts/PFSquareSansProRegular.eot');
+	src: url('./fonts/PFSquareSansProRegular.eot?#iefix') format('embedded-opentype'), url('../fonts/PFSquareSansProRegular.woff') format('woff'), url('../fonts/PFSquareSansProRegular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'PFSquareSansProMedium';
+	src: url('./fonts/PFSquareSansProMedium.eot');
+	src: url('./fonts/PFSquareSansProMedium.eot?#iefix') format('embedded-opentype'), url('../fonts/PFSquareSansProMedium.woff') format('woff'), url('../fonts/PFSquareSansProMedium.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'PFSquareSansProBold';
+	src: url('./fonts/PFSquareSansProBold.eot');
+	src: url('./fonts/PFSquareSansProMBold.eot?#iefix') format('embedded-opentype'), url('../fonts/PFSquareSansProBold.woff') format('woff'), url('../fonts/PFSquareSansProMBold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Rouble';
+	src: url('../fonts/Rouble.eot');
+	src: url('../fonts/rouble-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/Rouble.woff') format('woff'), url('../fonts/Rouble.ttf') format('truetype'), url('../fonts/Rouble.svg') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
